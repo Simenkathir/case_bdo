@@ -1,0 +1,15 @@
+/Users/simenkathirgamadas/Desktop/case_bdo/ConsoleApp/bin/Debug/net8.0/ConsoleApp
+/Users/simenkathirgamadas/Desktop/case_bdo/ConsoleApp/bin/Debug/net8.0/ConsoleApp.deps.json
+/Users/simenkathirgamadas/Desktop/case_bdo/ConsoleApp/bin/Debug/net8.0/ConsoleApp.runtimeconfig.json
+/Users/simenkathirgamadas/Desktop/case_bdo/ConsoleApp/bin/Debug/net8.0/ConsoleApp.dll
+/Users/simenkathirgamadas/Desktop/case_bdo/ConsoleApp/bin/Debug/net8.0/ConsoleApp.pdb
+/Users/simenkathirgamadas/Desktop/case_bdo/ConsoleApp/obj/Debug/net8.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simenkathirgamadas/Desktop/case_bdo/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/simenkathirgamadas/Desktop/case_bdo/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfo.cs
+/Users/simenkathirgamadas/Desktop/case_bdo/ConsoleApp/obj/Debug/net8.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/simenkathirgamadas/Desktop/case_bdo/ConsoleApp/obj/Debug/net8.0/ConsoleApp.sourcelink.json
+/Users/simenkathirgamadas/Desktop/case_bdo/ConsoleApp/obj/Debug/net8.0/ConsoleApp.dll
+/Users/simenkathirgamadas/Desktop/case_bdo/ConsoleApp/obj/Debug/net8.0/refint/ConsoleApp.dll
+/Users/simenkathirgamadas/Desktop/case_bdo/ConsoleApp/obj/Debug/net8.0/ConsoleApp.pdb
+/Users/simenkathirgamadas/Desktop/case_bdo/ConsoleApp/obj/Debug/net8.0/ConsoleApp.genruntimeconfig.cache
+/Users/simenkathirgamadas/Desktop/case_bdo/ConsoleApp/obj/Debug/net8.0/ref/ConsoleApp.dll
