@@ -13,3 +13,14 @@
 /Users/simenkathirgamadas/Desktop/case_bdo/ConsoleApp/obj/Debug/net8.0/ConsoleApp.pdb
 /Users/simenkathirgamadas/Desktop/case_bdo/ConsoleApp/obj/Debug/net8.0/ConsoleApp.genruntimeconfig.cache
 /Users/simenkathirgamadas/Desktop/case_bdo/ConsoleApp/obj/Debug/net8.0/ref/ConsoleApp.dll
+/Users/simenkathirgamadas/Desktop/case_bdo/ConsoleApp/bin/Debug/net8.0/Microsoft.Extensions.Configuration.dll
+/Users/simenkathirgamadas/Desktop/case_bdo/ConsoleApp/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/simenkathirgamadas/Desktop/case_bdo/ConsoleApp/bin/Debug/net8.0/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/simenkathirgamadas/Desktop/case_bdo/ConsoleApp/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Json.dll
+/Users/simenkathirgamadas/Desktop/case_bdo/ConsoleApp/bin/Debug/net8.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/simenkathirgamadas/Desktop/case_bdo/ConsoleApp/bin/Debug/net8.0/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/simenkathirgamadas/Desktop/case_bdo/ConsoleApp/bin/Debug/net8.0/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/simenkathirgamadas/Desktop/case_bdo/ConsoleApp/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/Users/simenkathirgamadas/Desktop/case_bdo/ConsoleApp/obj/Debug/net8.0/ConsoleApp.csproj.AssemblyReference.cache
+/Users/simenkathirgamadas/Desktop/case_bdo/ConsoleApp/obj/Debug/net8.0/ConsoleApp.csproj.Up2Date
+/Users/simenkathirgamadas/Desktop/case_bdo/ConsoleApp/bin/Debug/net8.0/appsettings.json
